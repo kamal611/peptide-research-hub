@@ -1,37 +1,28 @@
-# Peptide Research Hub
+# PeptideAAA
 
-A static, 100-article site covering peptide research, news, guides, safety, and comparisons across 6 categories (Basics, News, Guides, Research, Safety, Comparisons & Q&A).
+A static, 100+ article site covering peptide research, news, guides, safety, and comparisons across 6 categories.
 
-## What's in here
+## What's in here (flat structure — no subfolders)
 
-- `index.html` — homepage
-- `category/*.html` — 6 category listing pages
-- `articles/*.html` — the 100 individual articles
-- `disclaimer.html` — medical/legal disclaimer (linked in every page's footer)
-- `style.css` — single stylesheet, mobile-responsive, light/dark-friendly
-- `sitemap.xml`, `robots.txt` — basic SEO plumbing
-- `server.js`, `package.json` — a minimal zero-dependency Node static server for deployment
+Every page lives directly in this folder — `index.html`, `category-*.html`, `article-*.html`, `disclaimer.html`, `style.css`, `server.js`, `package.json`, `404.html`, `sitemap.xml`, `robots.txt`. This is intentional: a flat structure uploads reliably through GitHub's web "Upload files" flow (including from a phone), where nested folders sometimes get dropped.
+
+## Updating the GitHub repo (replace everything)
+
+1. On github.com, open the repo and delete any existing files (select all → delete, or delete one by one if there are only a few).
+2. Click **Add file → Upload files**, then select/drag *all* the files from this folder at once (there are no subfolders to worry about).
+3. Commit. Railway will redeploy automatically since it's connected to this repo.
 
 ## Deploying to Railway
 
-**Option A — GitHub (recommended):**
-1. Push this folder to a new GitHub repo.
-2. In Railway, click **New Project → Deploy from GitHub repo** and select it.
-3. Railway detects Node via `package.json` and runs `npm start` automatically (which runs `node server.js`). No build step needed — it's already a static build.
-4. Once deployed, Railway gives you a `*.up.railway.app` URL. Attach a custom domain under the service's **Settings → Domains** if you have one.
-
-**Option B — Railway CLI:**
-```bash
-npm i -g @railway/cli
-railway login
-railway init
-railway up
-```
-Then `railway domain` to get a public URL.
+Already connected: this repo is linked to a Railway project, which auto-deploys on every push to `main` via `npm start` (`node server.js`). No build step — it's a static app served by a small Node file server.
 
 ## Updating content later
 
-The actual article text lives in `content/*.json` in the site's source project (not included in this deploy bundle), rendered through `build.py`. To change an article's wording, category, or add new ones, that's the place to edit — this `build/` folder is generated output. If you don't have the source project, the fastest path to edit copy is directly in each `articles/*.html` file (inside the `<div class="article-body">` block) and re-deploy.
+The article text lives in `content/*.json` in the site's source project (not included in this deploy bundle), rendered through `build.py`. Re-run `python3 build.py` after editing content, then re-upload this `build/` folder's contents.
+
+## Branding
+
+The logo is embedded directly in every page as a base64 data URI (in the `<head>`/header markup), so there's no separate image file to keep track of or that can go missing on upload.
 
 ## Before this goes live for real
 

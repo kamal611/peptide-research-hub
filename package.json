@@ -1,8 +1,8 @@
 {
-  "name": "peptide-research-hub",
+  "name": "peptideaaa",
   "version": "1.0.0",
   "private": true,
-  "description": "Static site: 100 peptide research/news/guide articles",
+  "description": "Static site: 100+ peptide research/news/guide articles",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"

@@ -13,6 +13,9 @@ const TYPES = {
   ".xml": "application/xml; charset=utf-8",
   ".txt": "text/plain; charset=utf-8",
   ".json": "application/json; charset=utf-8",
+  ".png": "image/png",
+  ".jpg": "image/jpeg",
+  ".svg": "image/svg+xml",
 };
 
 const server = http.createServer((req, res) => {
@@ -59,5 +62,5 @@ const server = http.createServer((req, res) => {
 });
 
 server.listen(PORT, () => {
-  console.log(`Peptide Research Hub serving on port ${PORT}`);
+  console.log(`PeptideAAA serving on port ${PORT}`);
 });
