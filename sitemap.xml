@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://peptideaaa.com/</loc>
+    <lastmod>2026-09-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://peptideaaa.com/about.html</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
@@ -44,6 +50,12 @@
   </url>
   <url>
     <loc>https://peptideaaa.com/article-bpc-157-vs-tb-500-comparing-the-evidence-for-injury-recovery.html</loc>
+    <lastmod>2026-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://peptideaaa.com/article-cagrilintide-and-cagrisema-explained-pairing-an-amylin-analog-with-semaglutide.html</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -122,6 +134,30 @@
   </url>
   <url>
     <loc>https://peptideaaa.com/article-epithalon-explained-the-russian-longevity-peptide.html</loc>
+    <lastmod>2026-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://peptideaaa.com/article-exenatide-explained-the-original-glp-1-peptide-that-started-it-all.html</loc>
+    <lastmod>2026-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://peptideaaa.com/article-fda-advisory-panel-votes-to-recommend-bpc-157-tb-500-and-four-other-peptides-for-legal-compounding.html</loc>
+    <lastmod>2026-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://peptideaaa.com/article-fda-approves-orforglipron-the-first-oral-glp-1-pill-without-food-or-water-restrictions.html</loc>
+    <lastmod>2026-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://peptideaaa.com/article-fda-warns-four-peptide-sellers-over-illegal-marketing-of-weight-loss-peptide-knockoffs.html</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -313,6 +349,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://peptideaaa.com/article-oral-vs-injectable-glp-1-drugs-what-orforglipron-has-to-overcome.html</loc>
+    <lastmod>2026-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://peptideaaa.com/article-peg-mgf-explained-mechano-growth-factor-research.html</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
@@ -433,6 +475,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://peptideaaa.com/article-tesamorelin-explained-the-fda-approved-peptide-for-hiv-associated-lipodystrophy.html</loc>
+    <lastmod>2026-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://peptideaaa.com/article-the-difference-between-fda-approved-off-label-and-unapproved-peptide-use.html</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
@@ -506,6 +554,12 @@
   </url>
   <url>
     <loc>https://peptideaaa.com/article-what-a-systematic-review-adds-that-a-single-study-cant.html</loc>
+    <lastmod>2026-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://peptideaaa.com/article-what-an-fda-advisory-committee-vote-actually-means-and-doesnt.html</loc>
     <lastmod>2026-09-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -630,10 +684,5 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
-    <loc>https://peptideaaa.com/</loc>
-    <lastmod>2026-09-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
+
 </urlset>
