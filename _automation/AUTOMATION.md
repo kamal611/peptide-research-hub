@@ -7,7 +7,7 @@ This file is the persistent "memory" for the daily article automation. Read it f
 - **Site:** PeptideAAA — peptide/GLP-1 research, news, guides, safety, comparisons.
 - **Repo:** github.com/kamal611/peptide-research-hub, branch `main`, FLAT file structure (no folders except `_automation/`).
 - **Hosting:** Railway project "gleaming-encouragement", service "peptide-research-hub" — auto-deploys on every push to `main`.
-- **Live URL:** https://peptide-research-hub-production.up.railway.app
+- **Live URL:** https://peptideaaa.com (custom domain; the Railway-generated URL https://peptide-research-hub-production.up.railway.app also still resolves to the same deployment)
 - **Manifest:** `_automation/manifest.json` in the repo lists every published article (slug, title, category). ALWAYS fetch and read this first to avoid duplicate topics, and update it after publishing new ones.
 - **Daily volume:** 5-10 new articles per run.
 
@@ -25,11 +25,46 @@ The cloud sandbox cannot push to GitHub directly (blocked by network policy). In
 
 - New articles: `article-<slug>.html`
 - Category pages (must be UPDATED, not created, when adding an article): `category-guides.html`, `category-news.html`, `category-research.html`, `category-safety.html`, `category-comparisons.html`, `category-basics.html`
-- `sitemap.xml` should also be updated with new `<url>` entries.
+- `sitemap.xml` should also be updated with new `<url>` entries, in this format (domain is `https://peptideaaa.com/`, not `example.com`):
+```xml
+  <url>
+    <loc>https://peptideaaa.com/article-<slug>.html</loc>
+    <lastmod>YYYY-MM-DD</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+```
+Use the actual publish date (today, in the run) as `<lastmod>`. Do not add `404.html` to the sitemap.
 
 ## Design system / page template
 
-Every page shares the same shell: sticky header with the PeptideAAA logo (embedded as a base64 PNG data URI — copy it byte-for-byte from an existing page's `<img class="brand-logo" src="data:image/png;base64,...">` rather than retyping), a nav bar linking the 6 category pages, `<link rel="stylesheet" href="style.css">`, and a footer with categories/site links + disclaimer. **To get the exact template and logo data URI, fetch the raw HTML of an existing page** (e.g. navigate the browser to `https://github.com/kamal611/peptide-research-hub/raw/main/article-bpc-157-explained-what-the-research-says-about-the-body-protection-compound.html` and read the full page text) and copy its structure, header, and footer verbatim — only swap the `<title>`, meta description, canonical path, breadcrumb, pill/category, H1, and article body. Article body markup: `<h2>` section headings, `<p>` paragraphs, wrapped in `<div class="article-body">`.
+Every page shares the same shell: sticky header with the PeptideAAA logo (embedded as a base64 PNG data URI — copy it byte-for-byte from an existing page's `<img class="brand-logo" src="data:image/png;base64,...">` rather than retyping), a nav bar linking the 6 category pages, `<link rel="stylesheet" href="style.css">`, and a footer with categories/site links + disclaimer. **To get the exact template and logo data URI, fetch the raw HTML of an existing page** (e.g. navigate the browser to `https://github.com/kamal611/peptide-research-hub/raw/main/article-bpc-157-explained-what-the-research-says-about-the-body-protection-compound.html` and read the full page text) and copy its structure, header, and footer verbatim.
+
+**As of the September 2026 SEO pass, every page's `<head>` also carries: a Google Search Console verification meta tag, the Google Analytics 4 `gtag.js` snippet (`G-0DJP0WZYMN`), Open Graph + Twitter Card meta tags, and a JSON-LD `<script type="application/ld+json">` block; every article also has a `<meta name="author" content="Mike Allen">` tag and a visible byline with a published date right after the `<h1>` (see `.byline` in `style.css`). When copying an existing article as a template for a new one, copy ALL of this verbatim — it does not change per article — but you MUST personalize these fields for the new article, or the new page will carry the old article's metadata:**
+- `<title>`, `<meta name="description">`, `<link rel="canonical">` (path only, domain stays `https://peptideaaa.com/`)
+- Breadcrumb link + `<span class="pill">` category
+- `<h1>` and the full `<div class="article-body">` content
+- `<meta property="og:title">`, `<meta property="og:description">`, `<meta property="og:url">`
+- `<meta name="twitter:title">`, `<meta name="twitter:description">`
+- Inside the JSON-LD block: `headline`, `description`, and `mainEntityOfPage.@id` (all three must match the new article's own title/description/URL — do NOT leave the copied article's values in place)
+
+**Every new article MUST get today's actual date (the date of that automation run) — this applies to every article published, including daily news items, not just the flagship guides:**
+- In the JSON-LD block, set `"datePublished"` and `"dateModified"` to today's date in full ISO 8601 with the site's timezone offset, e.g. `"2026-09-22T09:00:00-04:00"` — both fields get the same value at creation time. Insert them immediately after `"headline"`:
+  ```json
+  "headline": "...",
+  "datePublished": "2026-09-22T09:00:00-04:00",
+  "dateModified": "2026-09-22T09:00:00-04:00",
+  "description": "...",
+  ```
+- In the visible byline right after `<h1>`, use this exact markup (swap in the real date twice — the `datetime` attribute in `YYYY-MM-DD` and the human-readable text):
+  ```html
+  <p class="byline"><span class="byline-name">By Mike Allen</span><span class="byline-dot">&bull;</span><span>PeptideAAA</span><span class="byline-dot">&bull;</span><time datetime="2026-09-22">September 22, 2026</time></p>
+  ```
+- If an already-published article is later substantively edited (correcting facts, expanding content), update only `dateModified` (and the visible date, if the page displays an "Updated" variant) — leave `datePublished` as the original publish date.
+
+The author is always `Mike Allen` (Person) and the publisher is always `PeptideAAA` (Organization) in the JSON-LD `author`/`publisher` fields — leave those two blocks unchanged.
+
+Article body markup: `<h2>` section headings, `<p>` paragraphs, wrapped in `<div class="article-body">`.
 
 Article card markup (used on category pages and homepage) — insert one of these per new article inside the `<div class="card-grid">...</div>` on the relevant category page:
 ```html
