@@ -3,8 +3,43 @@
   "repo": "kamal611/peptide-research-hub",
   "branch": "main",
   "live_url": "https://peptide-research-hub-production.up.railway.app",
-  "article_count": 193,
+  "article_count": 200,
   "articles": [
+    {
+      "slug": "fda-warning-letters-hit-three-more-peptide-sellers-over-unapproved-glp-1-and-recovery-peptides",
+      "title": "FDA Warning Letters Hit Three More Peptide Sellers Over Unapproved GLP-1, PT-141, and Recovery Peptide Products",
+      "category": "news"
+    },
+    {
+      "slug": "novo-nordisk-licenses-nanexa-pharmashell-long-acting-peptide-injectable-technology",
+      "title": "Novo Nordisk Licenses Nanexa's Long-Acting Injectable Coating Technology in Deal Worth Up to $1.33 Billion",
+      "category": "news"
+    },
+    {
+      "slug": "elamipretide-ss-31-explained-the-fda-approved-mitochondrial-peptide-behind-forzinity",
+      "title": "Elamipretide (SS-31) Explained: The FDA-Approved Mitochondrial Peptide Behind Forzinity",
+      "category": "guides"
+    },
+    {
+      "slug": "mazdutide-explained-the-glp-1-glucagon-dual-agonist-approved-in-china",
+      "title": "Mazdutide Explained: The GLP-1/Glucagon Dual Agonist Approved in China",
+      "category": "guides"
+    },
+    {
+      "slug": "survodutide-vs-mazdutide-comparing-two-glp-1-glucagon-dual-agonists",
+      "title": "Survodutide vs. Mazdutide: Comparing Two GLP-1/Glucagon Dual Agonists in Development",
+      "category": "comparisons"
+    },
+    {
+      "slug": "glp-1-medications-and-nutrient-deficiencies-what-to-monitor-during-rapid-weight-loss",
+      "title": "GLP-1 Medications and Nutrient Deficiencies: What to Monitor During Rapid Weight Loss",
+      "category": "safety"
+    },
+    {
+      "slug": "how-to-read-an-fda-package-insert-for-a-peptide-drug",
+      "title": "How to Read an FDA Package Insert (Prescribing Information) for a Peptide Drug",
+      "category": "basics"
+    },
     {
       "slug": "zealand-pharma-launches-phase-3-zupreme-trials-for-petrelintide-amylin-analog",
       "title": "Zealand Pharma and Roche Launch Phase 3 ZUPREME Trials for Petrelintide, an Amylin Analog for Obesity",
