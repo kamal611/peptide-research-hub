@@ -3,7 +3,7 @@
   "repo": "kamal611/peptide-research-hub",
   "branch": "main",
   "live_url": "https://peptide-research-hub-production.up.railway.app",
-  "article_count": 200,
+  "article_count": 208,
   "articles": [
     {
       "slug": "fda-warning-letters-hit-three-more-peptide-sellers-over-unapproved-glp-1-and-recovery-peptides",
@@ -1004,6 +1004,46 @@
       "slug": "gdf15-explained-the-next-wave-of-appetite-regulating-peptides-beyond-glp-1",
       "title": "GDF15 Explained: The Next Wave of Appetite-Regulating Peptides Beyond GLP-1",
       "category": "research"
+    },
+    {
+      "slug": "wada-keeps-glp-1-drugs-off-2027-prohibited-list-adds-to-monitoring-programme",
+      "title": "WADA Keeps GLP-1 Drugs Off the 2027 Prohibited List, Adds Them to Its Monitoring Programme",
+      "category": "news"
+    },
+    {
+      "slug": "easd-2026-study-suggests-glp-1-eligibility-could-extend-to-millions-more-overweight-adults",
+      "title": "New EASD 2026 Data Suggests GLP-1 Eligibility Could Extend to Millions More Overweight Adults",
+      "category": "news"
+    },
+    {
+      "slug": "pemvidutide-explained-altimmunes-glucagon-glp-1-dual-agonist-for-mash",
+      "title": "Pemvidutide Explained: Altimmune's Glucagon/GLP-1 Dual Agonist for MASH and Alcohol Use Disorder",
+      "category": "guides"
+    },
+    {
+      "slug": "can-antibodies-preserve-muscle-during-glp-1-weight-loss-what-trial-data-shows",
+      "title": "Can Antibodies Preserve Muscle During GLP-1 Weight Loss? What the Early Trial Data Shows",
+      "category": "research"
+    },
+    {
+      "slug": "pemvidutide-vs-survodutide-comparing-two-glucagon-glp-1-dual-agonists-in-development",
+      "title": "Pemvidutide vs. Survodutide: Comparing Two Glucagon/GLP-1 Dual Agonists in Development",
+      "category": "comparisons"
+    },
+    {
+      "slug": "glp-1-medications-and-diabetic-retinopathy-what-the-early-treatment-risk-curve-shows",
+      "title": "GLP-1 Medications and Diabetic Retinopathy: What the Early-Treatment Risk Curve Shows",
+      "category": "safety"
+    },
+    {
+      "slug": "weight-regain-after-stopping-glp-1-medications-what-the-research-shows",
+      "title": "Weight Regain After Stopping GLP-1 Medications: What the Research Shows",
+      "category": "safety"
+    },
+    {
+      "slug": "what-is-faers-how-the-fda-tracks-side-effects-after-a-peptide-drug-is-approved",
+      "title": "What Is FAERS? How the FDA Tracks Side Effects After a Peptide Drug Is Approved",
+      "category": "basics"
     }
   ]
 }
