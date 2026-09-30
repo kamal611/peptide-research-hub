@@ -3,8 +3,38 @@
   "repo": "kamal611/peptide-research-hub",
   "branch": "main",
   "live_url": "https://peptide-research-hub-production.up.railway.app",
-  "article_count": 216,
+  "article_count": 222,
   "articles": [
+    {
+      "slug": "lilly-eloratzp-eloralintide-tirzepatide-phase-2b-23-percent-weight-loss-easd-2026",
+      "title": "Eli Lilly's EloraTZP Combination Shows Up to 23.3% Weight Loss in Phase 2b Trial, Outperforming Tirzepatide Alone",
+      "category": "news"
+    },
+    {
+      "slug": "novo-nordisk-licenses-hengrui-hrs-1596-oral-glp-1-gip-up-to-2-6-billion",
+      "title": "Novo Nordisk Licenses Hengrui's Early-Stage Oral GLP-1/GIP Candidate HRS-1596 in Deal Worth Up to $2.6 Billion",
+      "category": "news"
+    },
+    {
+      "slug": "eloralintide-explained-eli-lillys-selective-amylin-agonist-for-obesity",
+      "title": "Eloralintide Explained: Eli Lilly's Selective Amylin Agonist for Obesity",
+      "category": "guides"
+    },
+    {
+      "slug": "afamelanotide-explained-the-fda-approved-peptide-behind-scenesse",
+      "title": "Afamelanotide Explained: The FDA-Approved Peptide Behind Scenesse",
+      "category": "guides"
+    },
+    {
+      "slug": "icatibant-explained-the-fda-approved-peptide-for-hereditary-angioedema",
+      "title": "Icatibant Explained: The FDA-Approved Peptide for Hereditary Angioedema",
+      "category": "guides"
+    },
+    {
+      "slug": "what-is-easd-how-major-diabetes-and-obesity-conferences-shape-peptide-drug-news",
+      "title": "What Is EASD? How Major Diabetes and Obesity Conferences Shape Peptide Drug News",
+      "category": "research"
+    },
     {
       "slug": "zealand-pharma-petrelintide-phase-2-results-published-in-lancet-easd-2026",
       "title": "Zealand Pharma Publishes Full Phase 2 Petrelintide Results in The Lancet, Presents New Data at EASD 2026",
