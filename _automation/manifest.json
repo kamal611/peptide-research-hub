@@ -3,8 +3,48 @@
   "repo": "kamal611/peptide-research-hub",
   "branch": "main",
   "live_url": "https://peptide-research-hub-production.up.railway.app",
-  "article_count": 208,
+  "article_count": 216,
   "articles": [
+    {
+      "slug": "zealand-pharma-petrelintide-phase-2-results-published-in-lancet-easd-2026",
+      "title": "Zealand Pharma Publishes Full Phase 2 Petrelintide Results in The Lancet, Presents New Data at EASD 2026",
+      "category": "news"
+    },
+    {
+      "slug": "eli-lilly-700000-seniors-medicare-glp-1-bridge-program-foundayo-market-share",
+      "title": "Eli Lilly: 700,000 Seniors Have Started GLP-1s Under Medicare's Bridge Program, With Lilly Capturing 70%",
+      "category": "news"
+    },
+    {
+      "slug": "teriparatide-explained-the-fda-approved-peptide-for-osteoporosis",
+      "title": "Teriparatide Explained: The FDA-Approved Peptide for Osteoporosis",
+      "category": "guides"
+    },
+    {
+      "slug": "enfuvirtide-explained-the-fda-approved-peptide-that-blocks-hiv-from-entering-cells",
+      "title": "Enfuvirtide Explained: The FDA-Approved Peptide That Blocks HIV From Entering Cells",
+      "category": "guides"
+    },
+    {
+      "slug": "traveling-with-injectable-peptides-tsa-rules-and-storage-on-the-go",
+      "title": "Traveling With Injectable Peptides: TSA Rules and Storage On the Go",
+      "category": "safety"
+    },
+    {
+      "slug": "what-an-fda-complete-response-letter-means-and-which-peptide-drugs-have-gotten-one",
+      "title": "What an FDA Complete Response Letter Means, and Which Peptide Drugs Have Gotten One",
+      "category": "research"
+    },
+    {
+      "slug": "orange-book-vs-purple-book-how-the-fda-classifies-peptide-drugs",
+      "title": "Orange Book vs. Purple Book: How the FDA Classifies Small-Molecule and Peptide Drugs",
+      "category": "basics"
+    },
+    {
+      "slug": "teriparatide-vs-abaloparatide-comparing-two-fda-approved-bone-building-peptides",
+      "title": "Teriparatide vs. Abaloparatide: Comparing Two FDA-Approved Bone-Building Peptides",
+      "category": "comparisons"
+    },
     {
       "slug": "fda-warning-letters-hit-three-more-peptide-sellers-over-unapproved-glp-1-and-recovery-peptides",
       "title": "FDA Warning Letters Hit Three More Peptide Sellers Over Unapproved GLP-1, PT-141, and Recovery Peptide Products",
