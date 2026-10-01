@@ -3,8 +3,43 @@
   "repo": "kamal611/peptide-research-hub",
   "branch": "main",
   "live_url": "https://peptide-research-hub-production.up.railway.app",
-  "article_count": 222,
+  "article_count": 229,
   "articles": [
+    {
+      "slug": "boehringer-survodutide-synchronize-2-phase-3-13-percent-weight-loss-obesity-type-2-diabetes",
+      "title": "Boehringer Ingelheim's Survodutide Hits 13.1% Weight Loss in Phase 3 SYNCHRONIZE-2 Trial for Obesity and Type 2 Diabetes",
+      "category": "news"
+    },
+    {
+      "slug": "maritide-explained-amgens-monthly-gipr-antagonist-glp-1-agonist-for-obesity",
+      "title": "MariTide Explained: Amgen's Monthly GIPR Antagonist/GLP-1 Agonist for Obesity",
+      "category": "guides"
+    },
+    {
+      "slug": "how-ai-is-changing-peptide-drug-discovery",
+      "title": "How AI Is Changing Peptide Drug Discovery",
+      "category": "research"
+    },
+    {
+      "slug": "glp-1-medications-and-fertility-what-the-research-shows",
+      "title": "GLP-1 Medications and Fertility: What the Research Shows",
+      "category": "safety"
+    },
+    {
+      "slug": "glp-1-medications-and-mash-what-the-research-shows-about-fatty-liver-disease",
+      "title": "GLP-1 Medications and MASH: What the Research Shows About Fatty Liver Disease",
+      "category": "safety"
+    },
+    {
+      "slug": "glp-1-medications-and-cancer-risk-what-the-research-shows",
+      "title": "GLP-1 Medications and Cancer Risk: What the Research Shows",
+      "category": "safety"
+    },
+    {
+      "slug": "maritide-vs-retatrutide-comparing-two-next-generation-weight-loss-candidates",
+      "title": "MariTide vs. Retatrutide: Comparing Two Next-Generation Weight-Loss Candidates",
+      "category": "comparisons"
+    },
     {
       "slug": "lilly-eloratzp-eloralintide-tirzepatide-phase-2b-23-percent-weight-loss-easd-2026",
       "title": "Eli Lilly's EloraTZP Combination Shows Up to 23.3% Weight Loss in Phase 2b Trial, Outperforming Tirzepatide Alone",
