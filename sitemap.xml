@@ -1257,7 +1257,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
-</urlset>
+
   <url>
     <loc>https://peptideaaa.com/article-zealand-pharma-launches-phase-3-zupreme-trials-for-petrelintide-amylin-analog.html</loc>
     <lastmod>2026-09-26</lastmod>
@@ -1369,6 +1369,48 @@
   <url>
     <loc>https://peptideaaa.com/article-glp-1-medications-and-exercise-what-the-research-shows-about-resistance-training-and-muscle-preservation.html</loc>
     <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://peptideaaa.com/article-foundayo-orforglipron-attain-1-modeling-analysis-projects-up-to-57-percent-lower-diabetes-risk.html</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://peptideaaa.com/article-glucagon-explained-the-fda-approved-peptide-hormone-for-severe-hypoglycemia.html</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://peptideaaa.com/article-degarelix-explained-the-fda-approved-gnrh-antagonist-for-prostate-cancer.html</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://peptideaaa.com/article-abaloparatide-explained-the-fda-approved-peptide-for-osteoporosis.html</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://peptideaaa.com/article-glp-1-medications-and-gallbladder-disease-what-the-research-shows-about-gallstone-risk.html</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://peptideaaa.com/article-glucagon-vs-glp-1-two-pancreatic-hormones-with-opposite-effects-on-blood-sugar.html</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://peptideaaa.com/article-what-is-an-ind-application-and-how-it-differs-from-an-nda-or-bla.html</loc>
+    <lastmod>2026-10-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
