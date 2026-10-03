@@ -3,8 +3,43 @@
   "repo": "kamal611/peptide-research-hub",
   "branch": "main",
   "live_url": "https://peptide-research-hub-production.up.railway.app",
-  "article_count": 236,
+  "article_count": 243,
   "articles": [
+    {
+      "slug": "foundayo-orforglipron-attain-1-modeling-analysis-projects-up-to-57-percent-lower-diabetes-risk",
+      "title": "New Modeling Analysis Projects Foundayo (Orforglipron) Could Cut Future Diabetes Risk by Up to 57%",
+      "category": "news"
+    },
+    {
+      "slug": "glucagon-explained-the-fda-approved-peptide-hormone-for-severe-hypoglycemia",
+      "title": "Glucagon Explained: The FDA-Approved Peptide Hormone for Severe Hypoglycemia",
+      "category": "guides"
+    },
+    {
+      "slug": "degarelix-explained-the-fda-approved-gnrh-antagonist-for-prostate-cancer",
+      "title": "Degarelix Explained: The FDA-Approved GnRH Antagonist for Prostate Cancer",
+      "category": "guides"
+    },
+    {
+      "slug": "abaloparatide-explained-the-fda-approved-peptide-for-osteoporosis",
+      "title": "Abaloparatide Explained: The FDA-Approved Peptide for Osteoporosis",
+      "category": "guides"
+    },
+    {
+      "slug": "glp-1-medications-and-gallbladder-disease-what-the-research-shows-about-gallstone-risk",
+      "title": "GLP-1 Medications and Gallbladder Disease: What the Research Shows About Gallstone Risk",
+      "category": "safety"
+    },
+    {
+      "slug": "glucagon-vs-glp-1-two-pancreatic-hormones-with-opposite-effects-on-blood-sugar",
+      "title": "Glucagon vs. GLP-1: Two Hormones With Opposite Effects on Blood Sugar",
+      "category": "comparisons"
+    },
+    {
+      "slug": "what-is-an-ind-application-and-how-it-differs-from-an-nda-or-bla",
+      "title": "What Is an IND Application, and How Does It Differ From an NDA or BLA?",
+      "category": "basics"
+    },
     {
       "slug": "fda-warning-letters-hit-five-more-peptide-sellers-over-unapproved-glp-1-and-recovery-peptide-products",
       "title": "FDA Warning Letters Hit Five More Peptide Sellers Over Unapproved GLP-1 and Recovery Peptide Products",
