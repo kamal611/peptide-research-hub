@@ -3,8 +3,48 @@
   "repo": "kamal611/peptide-research-hub",
   "branch": "main",
   "live_url": "https://peptide-research-hub-production.up.railway.app",
-  "article_count": 243,
+  "article_count": 251,
   "articles": [
+    {
+      "slug": "tirzepatide-surpass-cvot-full-cardiovascular-data-easd-2026",
+      "title": "Tirzepatide's SURPASS-CVOT Trial Shows Non-Inferior Heart Protection Compared to Trulicity, Full Data Presented at EASD 2026",
+      "category": "news"
+    },
+    {
+      "slug": "octane-study-switching-oral-wegovy-pill-real-world-data-easd-2026",
+      "title": "Real-World OCTANE Study Tracks Patients Switching to the Oral Wegovy Pill, New Data Presented at EASD 2026",
+      "category": "news"
+    },
+    {
+      "slug": "lilly-novo-amylin-bet-next-wave-obesity-drugs-analyst-projections",
+      "title": "Why Lilly and Novo Are Betting Big on Amylin for the Next Wave of Obesity Drugs",
+      "category": "news"
+    },
+    {
+      "slug": "glp-1-medications-and-blood-pressure-what-the-research-shows",
+      "title": "GLP-1 Medications and Blood Pressure: What the Research Shows",
+      "category": "safety"
+    },
+    {
+      "slug": "semaglutide-vs-liraglutide-comparing-first-and-second-generation-glp-1-drugs",
+      "title": "Semaglutide vs. Liraglutide: Comparing First- and Second-Generation GLP-1 Drugs",
+      "category": "comparisons"
+    },
+    {
+      "slug": "what-is-a-citizen-petition-fight-over-compounded-glp-1-drugs",
+      "title": "What Is a Citizen Petition? How They've Shaped the Fight Over Compounded GLP-1 Drugs",
+      "category": "basics"
+    },
+    {
+      "slug": "placebo-adjusted-vs-observed-weight-loss-why-trial-percentages-can-be-misleading",
+      "title": "Placebo-Adjusted vs. Observed Weight Loss: Why Trial Percentages Can Be Misleading",
+      "category": "research"
+    },
+    {
+      "slug": "lixisenatide-explained-the-discontinued-glp-1-peptide-behind-adlyxin",
+      "title": "Lixisenatide Explained: The Discontinued GLP-1 Peptide Behind Adlyxin",
+      "category": "guides"
+    },
     {
       "slug": "foundayo-orforglipron-attain-1-modeling-analysis-projects-up-to-57-percent-lower-diabetes-risk",
       "title": "New Modeling Analysis Projects Foundayo (Orforglipron) Could Cut Future Diabetes Risk by Up to 57%",
