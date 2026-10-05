@@ -3,8 +3,48 @@
   "repo": "kamal611/peptide-research-hub",
   "branch": "main",
   "live_url": "https://peptide-research-hub-production.up.railway.app",
-  "article_count": 251,
+  "article_count": 259,
   "articles": [
+    {
+      "slug": "lillys-zepbound-shows-greater-weight-loss-than-wegovy-hd-in-new-indirect-comparison",
+      "title": "Lilly's Zepbound Shows Greater Weight Loss Than Wegovy HD in New Indirect Comparison",
+      "category": "news"
+    },
+    {
+      "slug": "ecnoglutide-shows-favorable-safety-profile-in-adolescents-with-obesity-phase-1b-data-easd-2026",
+      "title": "Ecnoglutide Shows a Favorable Safety Profile in Adolescents With Obesity, New Phase 1b Data Finds",
+      "category": "news"
+    },
+    {
+      "slug": "lanreotide-explained-the-fda-approved-somatostatin-analog-for-acromegaly-and-neuroendocrine-tumors",
+      "title": "Lanreotide Explained: The FDA-Approved Somatostatin Analog for Acromegaly and Neuroendocrine Tumors",
+      "category": "guides"
+    },
+    {
+      "slug": "nesiritide-explained-the-fda-approved-peptide-for-acute-heart-failure",
+      "title": "Nesiritide Explained: The FDA-Approved Peptide for Acute Heart Failure, and Why Its Use Declined",
+      "category": "guides"
+    },
+    {
+      "slug": "calcitonin-explained-the-fda-approved-peptide-hormone-for-bone-disease",
+      "title": "Calcitonin Explained: The FDA-Approved Peptide Hormone for Paget's Disease and Osteoporosis",
+      "category": "guides"
+    },
+    {
+      "slug": "non-inferiority-trials-explained-why-not-worse-than-is-a-high-bar-in-peptide-research",
+      "title": "Non-Inferiority Trials Explained: Why \"Not Worse Than\" Is a High Bar in Peptide Drug Research",
+      "category": "research"
+    },
+    {
+      "slug": "agonists-antagonists-and-receptors-the-pharmacology-vocabulary-behind-peptide-drugs",
+      "title": "Agonists, Antagonists, and Receptors: The Pharmacology Vocabulary Behind Peptide Drugs",
+      "category": "basics"
+    },
+    {
+      "slug": "safe-storage-and-disposal-of-injectable-peptides-preventing-accidental-exposure-at-home",
+      "title": "Safe Storage and Disposal of Injectable Peptides: Preventing Accidental Exposure at Home",
+      "category": "safety"
+    },
     {
       "slug": "tirzepatide-surpass-cvot-full-cardiovascular-data-easd-2026",
       "title": "Tirzepatide's SURPASS-CVOT Trial Shows Non-Inferior Heart Protection Compared to Trulicity, Full Data Presented at EASD 2026",
