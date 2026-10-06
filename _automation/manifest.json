@@ -3,8 +3,38 @@
   "repo": "kamal611/peptide-research-hub",
   "branch": "main",
   "live_url": "https://peptide-research-hub-production.up.railway.app",
-  "article_count": 259,
+  "article_count": 265,
   "articles": [
+    {
+      "slug": "novo-nordisk-and-eli-lilly-file-oral-obesity-pills-for-approval-in-south-korea",
+      "title": "Novo Nordisk and Eli Lilly File Oral Obesity Pills for Approval in South Korea, Setting Up a Three-Way Race With Hanmi's EPPE",
+      "category": "news"
+    },
+    {
+      "slug": "pasireotide-explained-the-fda-approved-somatostatin-analog-for-cushings-disease-and-acromegaly",
+      "title": "Pasireotide Explained: The FDA-Approved Somatostatin Analog for Cushing's Disease and Acromegaly",
+      "category": "guides"
+    },
+    {
+      "slug": "linaclotide-explained-the-fda-approved-peptide-for-ibs-c-and-chronic-constipation",
+      "title": "Linaclotide Explained: The FDA-Approved Peptide for IBS-C and Chronic Constipation",
+      "category": "guides"
+    },
+    {
+      "slug": "octreotide-vs-lanreotide-vs-pasireotide-comparing-the-three-fda-approved-somatostatin-analogs",
+      "title": "Octreotide vs. Lanreotide vs. Pasireotide: Comparing the Three FDA-Approved Somatostatin Analogs",
+      "category": "comparisons"
+    },
+    {
+      "slug": "what-orphan-drug-designation-means-for-peptide-drug-development",
+      "title": "What Orphan Drug Designation Means for Peptide Drug Development",
+      "category": "research"
+    },
+    {
+      "slug": "peptides-and-drug-testing-what-anti-doping-panels-actually-screen-for",
+      "title": "Peptides and Drug Testing: What Anti-Doping Panels Actually Screen For",
+      "category": "safety"
+    },
     {
       "slug": "lillys-zepbound-shows-greater-weight-loss-than-wegovy-hd-in-new-indirect-comparison",
       "title": "Lilly's Zepbound Shows Greater Weight Loss Than Wegovy HD in New Indirect Comparison",
