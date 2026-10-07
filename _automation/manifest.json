@@ -3,8 +3,43 @@
   "repo": "kamal611/peptide-research-hub",
   "branch": "main",
   "live_url": "https://peptide-research-hub-production.up.railway.app",
-  "article_count": 265,
+  "article_count": 272,
   "articles": [
+    {
+      "slug": "placebo-run-in-periods-in-obesity-drug-trials-why-some-studies-screen-out-placebo-responders-first",
+      "title": "Placebo Run-In Periods in Obesity Drug Trials: Why Some Studies Screen Out Placebo Responders First",
+      "category": "research"
+    },
+    {
+      "slug": "what-is-a-paragraph-iv-certification-how-generic-makers-challenge-drug-patents-including-for-glp-1s",
+      "title": "What Is a Paragraph IV Certification? How Generic Makers Challenge Drug Patents, Including for GLP-1s",
+      "category": "basics"
+    },
+    {
+      "slug": "glp-1-medications-in-type-1-diabetes-why-off-label-use-carries-added-risk",
+      "title": "GLP-1 Medications in Type 1 Diabetes: Why Off-Label Use Carries Added Risk",
+      "category": "safety"
+    },
+    {
+      "slug": "bimagrumab-explained-an-antibody-approach-to-preserving-muscle-during-glp-1-weight-loss",
+      "title": "Bimagrumab Explained: An Antibody Approach to Preserving Muscle During GLP-1 Weight Loss",
+      "category": "guides"
+    },
+    {
+      "slug": "danuglipron-explained-why-pfizer-discontinued-its-oral-glp-1-candidate",
+      "title": "Danuglipron Explained: Why Pfizer Discontinued Its Oral GLP-1 Candidate",
+      "category": "guides"
+    },
+    {
+      "slug": "orforglipron-foundayo-explained-the-first-oral-glp-1-pill-without-food-or-water-restrictions",
+      "title": "Orforglipron (Foundayo) Explained: The First Oral GLP-1 Pill Without Food or Water Restrictions",
+      "category": "guides"
+    },
+    {
+      "slug": "lilly-and-novo-present-early-biological-aging-data-for-their-glp-1-drugs-at-a-boston-conference",
+      "title": "Lilly and Novo Present Early \"Biological Aging\" Data for Their GLP-1 Drugs at a Boston Conference",
+      "category": "news"
+    },
     {
       "slug": "novo-nordisk-and-eli-lilly-file-oral-obesity-pills-for-approval-in-south-korea",
       "title": "Novo Nordisk and Eli Lilly File Oral Obesity Pills for Approval in South Korea, Setting Up a Three-Way Race With Hanmi's EPPE",
