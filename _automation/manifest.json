@@ -3,7 +3,7 @@
   "repo": "kamal611/peptide-research-hub",
   "branch": "main",
   "live_url": "https://peptide-research-hub-production.up.railway.app",
-  "article_count": 272,
+  "article_count": 278,
   "articles": [
     {
       "slug": "placebo-run-in-periods-in-obesity-drug-trials-why-some-studies-screen-out-placebo-responders-first",
@@ -1364,6 +1364,36 @@
       "slug": "what-is-faers-how-the-fda-tracks-side-effects-after-a-peptide-drug-is-approved",
       "title": "What Is FAERS? How the FDA Tracks Side Effects After a Peptide Drug Is Approved",
       "category": "basics"
+    },
+    {
+      "slug": "trump-administration-weighs-temporary-stopgap-to-allow-sale-of-some-unapproved-peptides",
+      "title": "Trump Administration Weighs Temporary Stopgap to Allow Sale of Some Unapproved Peptides, Washington Post Reports",
+      "category": "news"
+    },
+    {
+      "slug": "new-study-links-glp-1-drugs-and-unapproved-peptides-to-higher-aspiration-risk-under-anesthesia",
+      "title": "New Study Links GLP-1 Drugs and Unapproved Peptides to Sharply Higher Aspiration Risk Under Anesthesia",
+      "category": "news"
+    },
+    {
+      "slug": "viking-therapeutics-starts-new-vk2735-maintenance-dosing-study",
+      "title": "Viking Therapeutics Starts New VK2735 Maintenance-Dosing Study, Testing Oral and Less-Frequent Regimens",
+      "category": "news"
+    },
+    {
+      "slug": "amylin-explained-the-second-hormone-behind-the-next-wave-of-obesity-drugs",
+      "title": "Amylin Explained: The Second Hormone Behind the Next Wave of Obesity Drugs",
+      "category": "basics"
+    },
+    {
+      "slug": "what-is-gip-the-second-incretin-hormone-behind-tirzepatides-dual-agonist-design",
+      "title": "What Is GIP? The Second Incretin Hormone Behind Tirzepatide's Dual-Agonist Design",
+      "category": "research"
+    },
+    {
+      "slug": "glp-1-medications-and-dental-health-what-the-research-suggests-about-dry-mouth-and-acid-exposure",
+      "title": "GLP-1 Medications and Dental Health: What the Research Suggests About Dry Mouth and Acid Exposure",
+      "category": "safety"
     }
   ]
 }
