@@ -3,7 +3,7 @@
   "repo": "kamal611/peptide-research-hub",
   "branch": "main",
   "live_url": "https://peptide-research-hub-production.up.railway.app",
-  "article_count": 278,
+  "article_count": 279,
   "articles": [
     {
       "slug": "placebo-run-in-periods-in-obesity-drug-trials-why-some-studies-screen-out-placebo-responders-first",
@@ -1212,7 +1212,7 @@
     },
     {
       "slug": "new-nature-study-semaglutide-extends-lifespan-in-aging-mice",
-      "title": "New Nature Study Finds Semaglutide Extended Lifespan by 12% in Aging Mice",
+      "title": "New Nature Study Finds Semaglutide Extended Lifespan by 12% inAging Mice",
       "category": "news"
     },
     {
@@ -1394,6 +1394,11 @@
       "slug": "glp-1-medications-and-dental-health-what-the-research-suggests-about-dry-mouth-and-acid-exposure",
       "title": "GLP-1 Medications and Dental Health: What the Research Suggests About Dry Mouth and Acid Exposure",
       "category": "safety"
+    },
+    {
+      "slug": "article-cvs-caremark-restores-zepbound-coverage-adds-foundayo-lilly-novo-co-preferred",
+      "title": "CVS Caremark Restores Zepbound Coverage, Adds Foundayo, as Lilly and Novo Go Co-Preferred",
+      "category": "news"
     }
   ]
 }
