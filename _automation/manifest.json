@@ -3,7 +3,7 @@
   "repo": "kamal611/peptide-research-hub",
   "branch": "main",
   "live_url": "https://peptide-research-hub-production.up.railway.app",
-  "article_count": 279,
+  "article_count": 286,
   "articles": [
     {
       "slug": "placebo-run-in-periods-in-obesity-drug-trials-why-some-studies-screen-out-placebo-responders-first",
@@ -1399,6 +1399,41 @@
       "slug": "article-cvs-caremark-restores-zepbound-coverage-adds-foundayo-lilly-novo-co-preferred",
       "title": "CVS Caremark Restores Zepbound Coverage, Adds Foundayo, as Lilly and Novo Go Co-Preferred",
       "category": "news"
+    },
+    {
+      "slug": "hanmis-eppe-becomes-south-koreas-first-approved-domestic-glp-1-obesity-drug",
+      "title": "Hanmi's Eppe Becomes South Korea's First Approved Domestic GLP-1 Obesity Drug",
+      "category": "news"
+    },
+    {
+      "slug": "fda-warning-letter-empower-pharmacy-compounded-glp-1-sterility-violations",
+      "title": "FDA Warning Letter Cites Empower Pharmacy Over Compounded GLP-1 Products and Sterility Lapses",
+      "category": "news"
+    },
+    {
+      "slug": "angiotensin-ii-explained-the-fda-approved-peptide-for-septic-shock",
+      "title": "Angiotensin II Explained: The FDA-Approved Peptide for Septic Shock",
+      "category": "guides"
+    },
+    {
+      "slug": "corticotropin-acth-explained-the-fda-approved-peptide-hormone-behind-acthar-gel",
+      "title": "Corticotropin (ACTH) Explained: The FDA-Approved Peptide Hormone Behind Acthar Gel",
+      "category": "guides"
+    },
+    {
+      "slug": "secretin-explained-the-fda-approved-diagnostic-peptide-for-pancreatic-disorders",
+      "title": "Secretin Explained: The FDA-Approved Diagnostic Peptide for Pancreatic and Stomach Disorders",
+      "category": "guides"
+    },
+    {
+      "slug": "what-is-a-surrogate-endpoint-why-regulators-and-drugmakers-debate-using-them",
+      "title": "What Is a Surrogate Endpoint? Why Regulators and Drugmakers Debate Using Them",
+      "category": "research"
+    },
+    {
+      "slug": "amycretin-vs-retatrutide-comparing-two-next-generation-obesity-drug-candidates",
+      "title": "Amycretin vs. Retatrutide: Comparing Two Next-Generation Obesity Drug Candidates",
+      "category": "comparisons"
     }
   ]
 }
