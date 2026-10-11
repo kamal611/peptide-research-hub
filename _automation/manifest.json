@@ -3,7 +3,7 @@
   "repo": "kamal611/peptide-research-hub",
   "branch": "main",
   "live_url": "https://peptide-research-hub-production.up.railway.app",
-  "article_count": 286,
+  "article_count": 292,
   "articles": [
     {
       "slug": "placebo-run-in-periods-in-obesity-drug-trials-why-some-studies-screen-out-placebo-responders-first",
@@ -1434,6 +1434,36 @@
       "slug": "amycretin-vs-retatrutide-comparing-two-next-generation-obesity-drug-candidates",
       "title": "Amycretin vs. Retatrutide: Comparing Two Next-Generation Obesity Drug Candidates",
       "category": "comparisons"
+    },
+    {
+      "slug": "zealand-pharma-petrelintide-zupreme-2-phase-2-results-obesity-type-2-diabetes",
+      "title": "Zealand Pharma's Petrelintide Hits Phase 2 Goals in Obesity and Type 2 Diabetes, ZUPREME-2 Results Show",
+      "category": "news"
+    },
+    {
+      "slug": "lilly-taltz-zepbound-biomarker-data-immune-metabolic-psoriasis-obesity",
+      "title": "New Biomarker Data Show Lilly's Taltz-Zepbound Combination Triggers Broader Immune Changes Than Taltz Alone",
+      "category": "news"
+    },
+    {
+      "slug": "terlipressin-terlivaz-explained-the-fda-approved-peptide-for-hepatorenal-syndrome",
+      "title": "Terlipressin (Terlivaz) Explained: The FDA-Approved Peptide for Hepatorenal Syndrome",
+      "category": "guides"
+    },
+    {
+      "slug": "plecanatide-trulance-explained-the-fda-approved-peptide-for-chronic-constipation",
+      "title": "Plecanatide (Trulance) Explained: The FDA-Approved Peptide for Chronic Constipation and IBS-C",
+      "category": "guides"
+    },
+    {
+      "slug": "plecanatide-vs-linaclotide-comparing-two-fda-approved-peptides-for-chronic-constipation",
+      "title": "Plecanatide vs. Linaclotide: Comparing Two FDA-Approved Peptides for Chronic Constipation",
+      "category": "comparisons"
+    },
+    {
+      "slug": "topline-results-vs-peer-reviewed-publication-why-the-gap-matters",
+      "title": "Topline Results vs. Peer-Reviewed Publication: Why the Gap Between a Press Release and a Published Study Matters",
+      "category": "research"
     }
   ]
 }
