@@ -3,7 +3,7 @@
   "repo": "kamal611/peptide-research-hub",
   "branch": "main",
   "live_url": "https://peptide-research-hub-production.up.railway.app",
-  "article_count": 292,
+  "article_count": 300,
   "articles": [
     {
       "slug": "placebo-run-in-periods-in-obesity-drug-trials-why-some-studies-screen-out-placebo-responders-first",
@@ -1464,6 +1464,46 @@
       "slug": "topline-results-vs-peer-reviewed-publication-why-the-gap-matters",
       "title": "Topline Results vs. Peer-Reviewed Publication: Why the Gap Between a Press Release and a Published Study Matters",
       "category": "research"
+    },
+    {
+      "slug": "met-097i-and-met-233i-explained-pfizers-metsera-obesity-pipeline",
+      "title": "MET-097i and MET-233i Explained: Pfizer's Metsera Obesity Pipeline",
+      "category": "guides"
+    },
+    {
+      "slug": "navigating-insurance-denials-and-prior-authorization-for-glp-1-medications",
+      "title": "Navigating Insurance Denials and Prior Authorization for GLP-1 Medications",
+      "category": "guides"
+    },
+    {
+      "slug": "glp-1-microdosing-what-the-research-actually-shows",
+      "title": "GLP-1 Microdosing: What the Research Actually Shows (and Doesn't)",
+      "category": "safety"
+    },
+    {
+      "slug": "ecnoglutide-vs-mazdutide-comparing-chinas-two-approved-next-generation-glp-1-drugs",
+      "title": "Ecnoglutide vs. Mazdutide: Comparing China's Two Approved Next-Generation GLP-1 Drugs",
+      "category": "comparisons"
+    },
+    {
+      "slug": "accelerated-approval-explained-why-some-peptide-drugs-get-a-conditional-fda-green-light",
+      "title": "Accelerated Approval Explained: Why Some Peptide Drugs Get a Conditional FDA Green Light",
+      "category": "basics"
+    },
+    {
+      "slug": "what-is-a-dose-ranging-phase-2b-trial-why-glp-1-developers-test-multiple-doses",
+      "title": "What Is a Dose-Ranging (Phase 2b) Trial? Why GLP-1 Developers Test Multiple Doses",
+      "category": "research"
+    },
+    {
+      "slug": "semaglutide-and-alzheimers-what-the-evoke-and-evoke-plus-trials-found",
+      "title": "Semaglutide and Alzheimer's: What the EVOKE and EVOKE+ Trials Found",
+      "category": "research"
+    },
+    {
+      "slug": "glp-1-medications-and-addictive-behaviors-what-the-research-shows",
+      "title": "GLP-1 Medications and Addictive Behaviors: What the Research Shows",
+      "category": "safety"
     }
   ]
 }
