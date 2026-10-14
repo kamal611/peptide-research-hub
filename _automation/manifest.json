@@ -3,7 +3,7 @@
   "repo": "kamal611/peptide-research-hub",
   "branch": "main",
   "live_url": "https://peptide-research-hub-production.up.railway.app",
-  "article_count": 300,
+  "article_count": 306,
   "articles": [
     {
       "slug": "placebo-run-in-periods-in-obesity-drug-trials-why-some-studies-screen-out-placebo-responders-first",
@@ -1504,6 +1504,36 @@
       "slug": "glp-1-medications-and-addictive-behaviors-what-the-research-shows",
       "title": "GLP-1 Medications and Addictive Behaviors: What the Research Shows",
       "category": "safety"
+    },
+    {
+      "slug": "glp-1-vision-loss-lawsuits-are-mounting-what-the-growing-naion-litigation-means",
+      "title": "GLP-1 Vision-Loss Lawsuits Are Mounting: What the Growing NAION Litigation Means",
+      "category": "news"
+    },
+    {
+      "slug": "larazotide-acetate-explained-the-tight-junction-peptide-in-late-stage-celiac-disease-trials",
+      "title": "Larazotide Acetate Explained: The Tight-Junction Peptide in Late-Stage Celiac Disease Trials",
+      "category": "guides"
+    },
+    {
+      "slug": "how-to-read-a-peptide-certificate-of-analysis-what-third-party-testing-can-and-cant-prove",
+      "title": "How to Read a Peptide Certificate of Analysis: What Third-Party Testing Can (and Can't) Prove",
+      "category": "safety"
+    },
+    {
+      "slug": "how-peptide-products-are-marketed-online-common-claims-and-what-research-use-only-really-means",
+      "title": "How Peptide Products Are Marketed Online: Common Claims and What \"Research Use Only\" Really Means",
+      "category": "basics"
+    },
+    {
+      "slug": "why-most-peptide-drugs-cant-be-taken-as-a-pill-oral-bioavailability-and-the-enzyme-degradation-problem",
+      "title": "Why Most Peptide Drugs Can't Be Taken as a Pill: Oral Bioavailability and the Enzyme-Degradation Problem",
+      "category": "research"
+    },
+    {
+      "slug": "glp-1-drugs-vs-sarms-why-they-get-confused-and-why-their-regulatory-status-isnt-remotely-similar",
+      "title": "GLP-1 Drugs vs. SARMs: Why They Get Confused and Why Their Regulatory Status Isn't Remotely Similar",
+      "category": "comparisons"
     }
   ]
 }
