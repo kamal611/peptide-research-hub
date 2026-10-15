@@ -3,7 +3,7 @@
   "repo": "kamal611/peptide-research-hub",
   "branch": "main",
   "live_url": "https://peptide-research-hub-production.up.railway.app",
-  "article_count": 306,
+  "article_count": 313,
   "articles": [
     {
       "slug": "placebo-run-in-periods-in-obesity-drug-trials-why-some-studies-screen-out-placebo-responders-first",
@@ -1533,6 +1533,41 @@
     {
       "slug": "glp-1-drugs-vs-sarms-why-they-get-confused-and-why-their-regulatory-status-isnt-remotely-similar",
       "title": "GLP-1 Drugs vs. SARMs: Why They Get Confused and Why Their Regulatory Status Isn't Remotely Similar",
+      "category": "comparisons"
+    },
+    {
+      "slug": "patients-say-unapproved-peptides-hurt-them-as-the-access-debate-heats-up",
+      "title": "Patients Say Unapproved Peptides Hurt Them as the Access Debate Heats Up",
+      "category": "news"
+    },
+    {
+      "slug": "conveglipron-explained-huadong-medicines-oral-glp-1-candidate-in-phase-3-trials",
+      "title": "Conveglipron Explained: Huadong Medicine's Oral GLP-1 Candidate in Phase 3 Trials",
+      "category": "guides"
+    },
+    {
+      "slug": "gonadorelin-explained-the-pulsatile-gnrh-peptide-behind-fertility-and-hormone-therapy",
+      "title": "Gonadorelin Explained: The Pulsatile GnRH Peptide Behind Fertility and Hormone Therapy",
+      "category": "guides"
+    },
+    {
+      "slug": "foxo4-dri-and-peptide-senolytics-what-the-animal-research-on-zombie-cell-clearance-shows",
+      "title": "FOXO4-DRI and Peptide Senolytics: What the Animal Research on \"Zombie Cell\" Clearance Shows",
+      "category": "research"
+    },
+    {
+      "slug": "vip-vasoactive-intestinal-peptide-for-mold-illness-what-the-evidence-actually-shows",
+      "title": "VIP (Vasoactive Intestinal Peptide) for \"Mold Illness\": What the Evidence Actually Shows",
+      "category": "safety"
+    },
+    {
+      "slug": "glutathione-explained-the-antioxidant-tripeptide-behind-iv-drips-and-skin-treatments",
+      "title": "Glutathione Explained: The Antioxidant Tripeptide Behind IV Drips and Skin Treatments",
+      "category": "guides"
+    },
+    {
+      "slug": "gonadorelin-vs-leuprolide-comparing-pulsatile-gnrh-therapy-to-gnrh-agonist-suppression",
+      "title": "Gonadorelin vs. Leuprolide: Comparing Pulsatile GnRH Therapy to GnRH Agonist Suppression",
       "category": "comparisons"
     }
   ]
